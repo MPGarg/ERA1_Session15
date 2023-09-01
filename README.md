@@ -1,6 +1,6 @@
 # Transformer Model (Translation) trained from scratch on CUDA device ('NVIDIA A100-SXM4-40GB')
 
-## Model trained on PyTorch LightningModule on opus_book dataset from Hugging Face (Partner from ERAv1 : Madhur Prakash Garg)
+## Model trained on PyTorch LightningModule on opus_book dataset from Hugging Face (Partner from ERAv1 : Rashi Agarwal)
 
 ![image](https://github.com/RashiTech/ERA-V1/assets/90626052/77fbce53-ad1b-4b8a-9295-1d4ec1596052)
 
